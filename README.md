@@ -2,11 +2,5 @@
 
 ## TESTING....
 
-Zhao Pengkang
-
-Shi Tianyu
-
-Cai Runze
-
-Wang chengxi
+###Part One
 
