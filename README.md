@@ -2,12 +2,6 @@
 
 ## TESTING....
 
-Wang Chenxi
-
-sldjf
-
-Cai Runze
-
 ### Part One
 
 
